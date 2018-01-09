@@ -2,4 +2,4 @@
 
 This is a simple blogging website.
 
-Want to see it in action? http://mighty-tundra-22636.herokuapp.com/
+Want to see it in action? https://simpledevthoughts.herokuapp.com/
